@@ -17,8 +17,8 @@
           "static": true,
           "settings": {
             "media_presentation": "grid",
-            "media_columns": "two",
-            "image_gap": 4,
+            "media_columns": "one",
+            "image_gap": 30,
             "large_first_image": false,
             "icons_style": "none",
             "slideshow_controls_style": "counter",
