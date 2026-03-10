@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-
+ 
 body {
   color: var(--color-foreground);
   background: var(--color-background);
@@ -11,7 +11,10 @@ body {
   min-height: 100svh;
   font-variation-settings: 'slnt' 0;
 }
-
+.announcement-bar {
+    font-weight: 900 !important;
+    color: brown !important;
+}
 :root {
   --hover-lift-amount: 4px;
   --hover-scale-amount: 1.03;
